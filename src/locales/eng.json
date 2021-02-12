@@ -1,0 +1,22 @@
+{
+    "COMMON_TEXT": {
+        "ADDRESS_AREA": "Address / Area / Category",
+        "SEARCH_LOCATION": "Check an Establishment"
+    },
+    "KYC": {
+        "SAVE": "Save Changes",
+        "THE_PUBLIC": "The Public",
+        "PROFILE_MANAGEMENT":"Profile Management"
+
+    },
+    "CustomToken":{
+        "KYC":"KYC",
+        "CUSTOM_TOKEN":"Custom Token",
+        "USER_TEST_GMAIL":"User-test@gmail.com",
+        "WE_RESERVE_TIME":"We reserve our time to validate your document",
+        "EMAIL_VERIFICATION":"Email Verification",
+        "YOUR_EMAIL_TEST":"Your email - test@gmail.com"
+
+
+    }
+}
